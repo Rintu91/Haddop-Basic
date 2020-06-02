@@ -1,0 +1,3 @@
+com\HadoopJava\InvertedIndexReducer.class
+com\HadoopJava\InvertedIndexDriver.class
+com\HadoopJava\InvertedIndexMapper.class
