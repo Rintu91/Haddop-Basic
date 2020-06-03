@@ -1,0 +1,7 @@
+com\HadoopJava\FriendArray.class
+com\HadoopJava\FriendsReducer.class
+com\HadoopJava\Friend.class
+com\HadoopJava\ReadFriends.class
+com\HadoopJava\FriendsDriver.class
+com\HadoopJava\FriendsMapper.class
+com\HadoopJava\FriendPair.class
